@@ -1,0 +1,18 @@
+.display-flex {
+    display: flex;
+    padding: 20px;
+    justify-content: center; 
+}
+
+.display-flex>input {
+    width: 400px !important;
+}
+
+.user-card {
+    padding: 10px;
+    border: 1px dotted orange;
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
